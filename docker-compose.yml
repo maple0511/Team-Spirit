@@ -1,0 +1,14 @@
+services:
+  team-website:
+    build: .
+    container_name: team-spirit-website
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+
+  todo-app:
+    build: ./todo
+    container_name: team-spirit-todo
+    ports:
+      - "8081:80"
+    restart: unless-stopped

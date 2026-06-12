@@ -6,8 +6,9 @@ Final project for Lab 12 Basic Development and Operation.
 
 | Name | Student ID | Contribution |
 |---|---|---|
-| Felix | 20242172 | 50% |
-| Huyinan | 20242175 | 50% |
+| Felix | 20242172 | 33.34% |
+| Huyinan | 20242175 | 33.33% |
+| ZeKangAi | 20242173 | 33.33% |
 
 ## Photos
 
@@ -16,6 +17,9 @@ Final project for Lab 12 Basic Development and Operation.
 
 ### Huyinan
 ![Huyinan](assets/Huyinan.jpg)
+
+### ZeKangAi
+![ZeKangAi](assets/Alzaine_image.jpg)
 
 ## Application URLs
 

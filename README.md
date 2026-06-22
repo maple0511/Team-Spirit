@@ -13,13 +13,20 @@ Final project for Lab 12 Basic Development and Operation.
 ## Photos
 
 ### Felix
-![Felix](assets/Felix.jpg)
+![Felix](my-website/assets/Felix.jpg)
+            Front-end developer with an eye for sleek UI and seamless user experiences.
+            Passionate about turning ideas into responsive, animated, and accessible interfaces.
 
 ### Huyinan
-![Huyinan](assets/Huyinan.jpg)
+![Huyinan](my-website/assets/Huyinan.jpg)
+
+            Back-end specialist skilled in building robust APIs, database design, and cloud services.
+            Dedicated to writing clean, efficient, and maintainable server-side code.
 
 ### ZeKangAi
-![ZeKangAi](assets/Alzaine_image.jpg)
+![ZeKangAi](my-website/assets/Alzaine_image.jpg)
+            Full-stack enthusiast who enjoys bridging design and logic.
+            Constantly learning new technologies to craft creative digital solutions.
 
 ## Application URLs
 

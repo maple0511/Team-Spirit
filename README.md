@@ -23,7 +23,7 @@ Final project for Lab 12 Basic Development and Operation.
 
 ## Application URLs
 
-Personal Website: waiting for deployment  
+Personal Website: 207.90.237.51: 
 Todo Application: waiting for deployment  
 
 ## GitHub Repository
@@ -35,3 +35,4 @@ https://github.com/maple0511/Team-Spirit
 ```bash
 docker compose up -d --build
 ```
+#

@@ -19,7 +19,6 @@ Final project for Lab 12 Basic Development and Operation.
 
 ### Huyinan
 ![Huyinan](my-website/assets/Huyinan.jpg)
-
             Back-end specialist skilled in building robust APIs, database design, and cloud services.
             Dedicated to writing clean, efficient, and maintainable server-side code.
 

@@ -23,8 +23,8 @@ Final project for Lab 12 Basic Development and Operation.
 
 ## Application URLs
 
-Personal Website: 207.90.237.51: 
-Todo Application: waiting for deployment  
+Personal Website: http://207.90.237.51:3000/
+Todo Application: http://207.90.237.51:8080/
 
 ## GitHub Repository
 
@@ -35,4 +35,3 @@ https://github.com/maple0511/Team-Spirit
 ```bash
 docker compose up -d --build
 ```
-#

@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  my-website:
+    build: ./my-website
+    ports:
+      - "3000:80"
+    restart: always
+  todo-app:
+    build: ./todo-app
+    ports:
+      - "8080:5000"
+    restart: always

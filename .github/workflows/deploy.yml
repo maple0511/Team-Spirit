@@ -11,10 +11,14 @@ jobs:
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.SERVER_IP }}
-          username: root   # 如果是其他用户，改这里
-          password: ${{ secrets.SERVER_PASSWORD }}
+          username: root
+          password: ${{ secrets.SERVER_PASSWORD }}   # 如果你用密码登录
           script: |
-            cd /root/final-project
+            # 如果目录不存在，先克隆（注意路径改成 Team-Spirit）
+            if [ ! -d "/root/Team-Spirit" ]; then
+              git clone https://github.com/${{ github.repository }}.git /root/Team-Spirit
+            fi
+            cd /root/Team-Spirit
             git pull origin main
-            docker compose down
+            docker compose down || true
             docker compose up --build -d
